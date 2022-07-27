@@ -1,17 +1,36 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
 // import Hello from './d0725/Hello';
-import Library from './d0725/Library';
+// import Library from './d0725/Library';
+// import Clock from './d0726/Clock';
+// import MyComponent from './d0726/MyComponent';
+// import TodaysPlan from './d0726/TodayPlan';
+// import MyName from './d0726/MyName';
+import CommentList from './d0726/CommentList';
+
+// setInterval(() =>{
+//   ReactDOM.render(
+//     <React.StrictMode>
+//       <Clock />
+//     </React.StrictMode>,
+//     document.getElementById('root')022222222222222222222222222
+//   );
+// }, 1000);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <Hello toWhat="soyeon"/> */}
     {/* <App /> */}
-    <Library />
+    {/* <Library /> */}
+    {/* <Clock /> */}
+    {/* <MyComponent /> */}
+    {/* <TodaysPlan /> */}
+    {/* <MyName name="노드">리액트</MyName> */}
+    <CommentList />
   </React.StrictMode>
 );
 
