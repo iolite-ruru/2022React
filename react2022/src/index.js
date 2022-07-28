@@ -9,7 +9,11 @@ import reportWebVitals from './reportWebVitals';
 // import MyComponent from './d0726/MyComponent';
 // import TodaysPlan from './d0726/TodayPlan';
 // import MyName from './d0726/MyName';
-import CommentList from './d0726/CommentList';
+// import CommentList from './d0726/CommentList';
+// import Counter from './d0727/Counter';
+// import StateExample from './d0727/StateExample';
+import Say from './d0727/Say';
+
 
 // setInterval(() =>{
 //   ReactDOM.render(
@@ -30,7 +34,10 @@ root.render(
     {/* <MyComponent /> */}
     {/* <TodaysPlan /> */}
     {/* <MyName name="노드">리액트</MyName> */}
-    <CommentList />
+    {/* <CommentList /> */}
+    {/* <Counter /> */}
+    {/* <StateExample /> */}
+    <Say />
   </React.StrictMode>
 );
 
