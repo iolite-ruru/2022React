@@ -12,7 +12,9 @@ import reportWebVitals from './reportWebVitals';
 // import CommentList from './d0726/CommentList';
 // import Counter from './d0727/Counter';
 // import StateExample from './d0727/StateExample';
-import Say from './d0727/Say';
+// import Say from './d0727/Say';
+// import ConfirmButton from './d0728/ConfirmButton';
+import EventPractice from './d0728/EventPractice';
 
 
 // setInterval(() =>{
@@ -37,7 +39,10 @@ root.render(
     {/* <CommentList /> */}
     {/* <Counter /> */}
     {/* <StateExample /> */}
-    <Say />
+    {/* <Say /> */}
+    {/* <ConfirmButton /> */}
+    <EventPractice />
+
   </React.StrictMode>
 );
 
