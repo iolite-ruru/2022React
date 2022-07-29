@@ -14,7 +14,10 @@ import reportWebVitals from './reportWebVitals';
 // import StateExample from './d0727/StateExample';
 // import Say from './d0727/Say';
 // import ConfirmButton from './d0728/ConfirmButton';
-import EventPractice from './d0728/EventPractice';
+// import EventPractice from './d0728/EventPractice';
+// import Counter from './d0729/Counter';
+// import LandingPage from './d0729/LandingPage';
+import AttendanceBook from './d0729/AttendanceBook';
 
 
 // setInterval(() =>{
@@ -41,8 +44,10 @@ root.render(
     {/* <StateExample /> */}
     {/* <Say /> */}
     {/* <ConfirmButton /> */}
-    <EventPractice />
-
+    {/* <EventPractice /> */}
+    {/* <Counter /> */}
+    {/* <LandingPage /> */}
+    <AttendanceBook />
   </React.StrictMode>
 );
 
