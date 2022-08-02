@@ -17,15 +17,18 @@ import reportWebVitals from './reportWebVitals';
 // import EventPractice from './d0728/EventPractice';
 // import Counter from './d0729/Counter';
 // import LandingPage from './d0729/LandingPage';
-import AttendanceBook from './d0729/AttendanceBook';
-
+// import AttendanceBook from './d0729/AttendanceBook';
+// import UserForm from './d0801/UserForm';
+// import Reservation from './d0801/Reservation';
+// import Calculator from './d0801/Calculator';
+import BlogIndex from './blog/BlogIndex';
 
 // setInterval(() =>{
 //   ReactDOM.render(
 //     <React.StrictMode>
 //       <Clock />
 //     </React.StrictMode>,
-//     document.getElementById('root')022222222222222222222222222
+//     document.getElementById('root')
 //   );
 // }, 1000);
 
@@ -47,7 +50,11 @@ root.render(
     {/* <EventPractice /> */}
     {/* <Counter /> */}
     {/* <LandingPage /> */}
-    <AttendanceBook />
+    {/* <AttendanceBook /> */}
+    {/* <UserForm /> */}
+    {/* <Reservation /> */}
+    {/* <Calculator /> */}
+    <BlogIndex />
   </React.StrictMode>
 );
 

@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "date": "2022.08.01",
+      "title": "title11111111111",
+      "content": "This is body."
+    },
+    {
+      "id": 2,
+      "date": "2022.08.01",
+      "title": "post 2",
+      "content": "This is body."
+    },
+    {
+      "id": 3,
+      "date": "2022.08.01",
+      "title": ":3 <-<",
+      "content": "This is body."
+    }
+  ]
