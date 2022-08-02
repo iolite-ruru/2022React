@@ -21,7 +21,13 @@ import reportWebVitals from './reportWebVitals';
 // import UserForm from './d0801/UserForm';
 // import Reservation from './d0801/Reservation';
 // import Calculator from './d0801/Calculator';
-import BlogIndex from './blog/BlogIndex';
+// import BlogIndex from './blog/BlogIndex';
+// import ProfileCard from './d0802/ProfileCard';
+// import DarkOrLight from './d0802/DrakOrLight';
+// import Counter from './d0802/Counter';
+// import Accommodate from './d0802/Accommodate';
+import Blocks from './d0802/Blocks';
+
 
 // setInterval(() =>{
 //   ReactDOM.render(
@@ -54,7 +60,12 @@ root.render(
     {/* <UserForm /> */}
     {/* <Reservation /> */}
     {/* <Calculator /> */}
-    <BlogIndex />
+    {/* <BlogIndex /> */}
+    {/* <ProfileCard /> */}
+    {/* <DarkOrLight /> */}
+    {/* <Counter /> */}
+    {/* <Accommodate /> */}
+    <Blocks />
   </React.StrictMode>
 );
 
