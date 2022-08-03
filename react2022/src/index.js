@@ -26,7 +26,10 @@ import reportWebVitals from './reportWebVitals';
 // import DarkOrLight from './d0802/DrakOrLight';
 // import Counter from './d0802/Counter';
 // import Accommodate from './d0802/Accommodate';
-import Blocks from './d0802/Blocks';
+// import Blocks from './d0802/Blocks';
+// import Info from './d0803/Info';
+// import Counter from './d0803/Counter';
+import Average from './d0803/Average';
 
 
 // setInterval(() =>{
@@ -65,7 +68,10 @@ root.render(
     {/* <DarkOrLight /> */}
     {/* <Counter /> */}
     {/* <Accommodate /> */}
-    <Blocks />
+    {/* <Blocks /> */}
+    {/* <Info /> */}
+    {/* <Counter /> */}
+    <Average />
   </React.StrictMode>
 );
 
