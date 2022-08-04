@@ -1,9 +1,10 @@
 import React from 'react';
 import './TypeList.css'
 import Type from './Type';
-import typeData from './typeData.json'
 
 const TypeList = (props) => {
+
+    const typeData = props.data;
 
     return (
         <div className='typeList-div'>

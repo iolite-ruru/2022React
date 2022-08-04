@@ -6,14 +6,17 @@ const Menu = (props) => {
 
     return (
         <div className='a-menu'>
-            <img className='menu-img' alt={name} src={img} />
-            <h3>{name}</h3>
-            <hr/>
-            <p className='menu-about'>{about} </p>
-            {kcal} kcal <br/>
-            {price}원
-            
-            
+            <div>
+                <img className='menu-img' alt={name} src={img} />
+            </div>
+
+            <div className='menu-txt-div'>
+                <h3>{name}</h3>
+                <hr/>
+                <p className='menu-about'>{about} </p>
+                {kcal} kcal <br/>
+                {price}원
+            </div>
         </div>
     );
 }

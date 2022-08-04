@@ -3,15 +3,27 @@
     --breakpoint-grid_columns: 2;
 } */
 
+hr {
+    border: none;
+    border-top: 1px solid #E3E7EB;
+    overflow: visible;
+    text-align: center;
+}
+
 .a-menu {
     float: left;
     width: 200px;
     height: 380px;
     padding: 25px;
     margin: 10px;
+    background-color: white;
     border: 0.5px solid rgba(0,0,0,0.08);
     border-radius: 40px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 10%);
+}
+
+.a-menu:hover {
+    transform: scale(1.05);
 }
 
 .menu-img {
@@ -22,4 +34,8 @@
 .menu-about {
     font-size: 9pt;
     color: gray;
+}
+
+.menu-txt-div {
+    /* background-color: rgb(202, 202, 202); */
 }
