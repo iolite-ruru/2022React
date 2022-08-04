@@ -1,0 +1,17 @@
+[
+    {
+        "name": "커피",
+        "type": "coffee",
+        "img": "https://www.nicepng.com/png/detail/129-1293321_png-free-stock-bean-cafe-flavor-svg-png.png"
+    },
+    {
+        "name": "차",
+        "type": "tea",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfbvgY27odiiOWMV6jIYdv_q0wp_lO9eMfg&usqp=CAU"
+    },
+    {
+        "name": "",
+        "type": "",
+        "img": ""
+    }
+]

@@ -1,0 +1,25 @@
+/* @media (min-width: 550px)
+.gh7uyir[class][class] {
+    --breakpoint-grid_columns: 2;
+} */
+
+.a-menu {
+    float: left;
+    width: 200px;
+    height: 380px;
+    padding: 25px;
+    margin: 10px;
+    border: 0.5px solid rgba(0,0,0,0.08);
+    border-radius: 40px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 10%);
+}
+
+.menu-img {
+    width: 100%;
+    height: auto;
+}
+
+.menu-about {
+    font-size: 9pt;
+    color: gray;
+}

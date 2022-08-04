@@ -1,0 +1,82 @@
+[
+    {
+        "name": "아메리카노",
+        "kcal": 12.2,
+        "about": "메가MGC커피 블렌드 원두로 추출한 에스프레소에 물을 더해, 풍부한 바디감을 느낄 수 있는 스탠다드 커피.",
+        "price": 1500,
+        "type": "coffee",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162318_1656573798017_43JQ0t0JCi.jpg"
+    },
+    {
+        "name": "카페라떼",
+        "kcal": 160.7,
+        "about": "진한 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
+        "price": 10,
+        "type": "coffee",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165440_1656575680273_1mqBtip7qh.jpg"
+    },
+    {
+        "name": "바닐라라떼",
+        "kcal": 244.2,
+        "about": "바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
+        "price": 10,
+        "type": "coffee",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165146_1656575506210_0DJPVTvDIa.jpg"
+    },
+    {
+        "name": "민트카페모카",
+        "kcal": 407.1,
+        "about": "개성 강한 에스프레소 + 모카 + 민트의 조화로운 맛과 향을 즐길 수 있는 커피.",
+        "price": 2500,
+        "type": "coffee",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162536_1656573936070_3gwQA9fFLe.jpg"
+    },
+    {
+        "name": "콜드브루오리지널",
+        "kcal": 7.2,
+        "about": "차가운 물에 장시간 우려내 깔끔한 목넘김을 느낄 수 있는 콜드브루.",
+        "price": 10,
+        "type": "coffee",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165819_1656575899792_ItfqiNDhPh.jpg"
+    },
+    {
+        "name": "녹차",
+        "kcal": 1.0,
+        "about": "고소한 감칠맛과 부드러운 목넘김으로 산뜻하게 마음을 위로하는 국내산 녹차.",
+        "price": 3000,
+        "type": "tea",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113057_1656642657113_ORWSdJHBUa.jpg"
+    },
+    {
+        "name": "사과유자차",
+        "kcal": 242.2,
+        "about": "애플티의 향긋함과 유자청의 상큼달콤함을 한컵에 담아낸 과일티.",
+        "price": 3000,
+        "type": "tea",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113153_1656642713022_k19Le9pVJ4.jpg"
+    },
+    {
+        "name": "얼그레이",
+        "kcal": 1.3,
+        "about": "홍차 특유의 풍부한 플레이버를 만끽할 수 있는 허브티.",
+        "price": 3000,
+        "type": "tea",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113256_1656642776818_NVdHeZhSwJ.jpg"
+    },
+    {
+        "name": "복숭아아이스티",
+        "kcal": 297.1,
+        "about": "깊은 맛의 홍차와 달콤한 복숭아의 은은한 향이 어우러진 시원한 여름철 인기 음료.",
+        "price": 3000,
+        "type": "tea",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114038_1656643238601_tmNjGB3jsD.jpg"
+    },
+    {
+        "name": "",
+        "kcal": 10,
+        "about": "",
+        "price": 10,
+        "type": "",
+        "img": ""
+    }
+  ]

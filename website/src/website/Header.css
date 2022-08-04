@@ -1,0 +1,45 @@
+.div-outer {
+    margin: 10px;
+    display: flex;
+    justify-content : center;
+    
+
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+.search-div {
+    padding: 5px;
+    margin: auto;
+    width: 50%;
+    height: 35px;
+    display: flex;
+    background: var(--f-mkcy-f);
+    border: 0.5px solid rgba(0,0,0,0.08);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 10%);
+    border-radius: 1000px;
+    transform: translate3d(0,0,0);
+}
+
+.search-input {
+    padding: 5px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.search-input:focus {outline:none;}
+
+.search-btn {
+    align-self: flex-end;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.search-img {
+    width: 20px;
+    height: auto;
+    box-shadow: 20px;
+}
