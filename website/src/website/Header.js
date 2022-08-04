@@ -6,6 +6,7 @@ const Header = (props) => {
     const service = props.data;
     return (
         <div className='div-outer'>
+            
             <img className='logo' alt='logo' src='https://img.79plus.co.kr/megahp/common/img/logo.png'/>
             <ServiceList data={service} />
             <div className='search-div'>

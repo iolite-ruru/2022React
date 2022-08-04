@@ -12,7 +12,7 @@ const MenuList = (props) => {
     // const { type, setType } = useState("coffee");
 
     return (
-        <div>
+        <div className='outer-div'>
             <TypeList data={typeData}/>
             <div className="list-div">
             {

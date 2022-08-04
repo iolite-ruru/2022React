@@ -1,11 +1,14 @@
 [
     {
-        "name": "메인"
+        "name": "메인",
+        "link": "/"
     },
     {
-        "name": "메뉴"
+        "name": "메뉴",
+        "link": "/menulist"
     },
     {
-        "name": "FAQ"
+        "name": "FAQ",
+        "link": "/inquirylist"
     }
 ]

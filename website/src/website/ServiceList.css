@@ -1,6 +1,7 @@
 .service-list-div {
-    margin-left: auto;
-    margin-right: auto;
+    /* margin-left: auto; */
+    align-items: center;
+    /* margin-right: 20%; */
 }
 
 .service-btn {
@@ -8,7 +9,7 @@
     background-color: transparent;
     border-color: transparent;
     font-size: large;
-    margin: 10px;
+    margin: 20px;
 }
 
 .service-btn:hover {

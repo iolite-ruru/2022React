@@ -1,20 +1,23 @@
 import React from 'react';
-import Service from './Service'
+import { Outlet,Link } from 'react-router-dom';
 import './ServiceList.css'
 
 const ServiceList = (props) => {
     const { data } = props;
 
-    // const { type, setType } = useState("coffee");
-
     return (
         <div className="service-list-div">
-            {/* <h1>asdf</h1> */}
+            {/* <h1>whwyww</h1> */}
             {
-                data.map( item =>
-                    <button className='service-btn'>{data.name}</button>
+                data.map( item => 
+                    <Link to={item.link}>
+                        <button className='service-btn'>{item.name}</button>
+                    </Link>
                 )
             }
+            {/* <Link to='/menulist'>asf</Link>
+            <Link to='/inquirylist'>ssssf</Link> */}
+            {/* <Outlet/> */}
         </div>
 
     );
