@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter } from 'react-router-dom'
 import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -29,7 +30,8 @@ import reportWebVitals from './reportWebVitals';
 // import Blocks from './d0802/Blocks';
 // import Info from './d0803/Info';
 // import Counter from './d0803/Counter';
-import Average from './d0803/Average';
+// import Average from './d0803/Average';
+import RouteApp from './d0805/RouteApp';
 
 
 // setInterval(() =>{
@@ -71,7 +73,10 @@ root.render(
     {/* <Blocks /> */}
     {/* <Info /> */}
     {/* <Counter /> */}
-    <Average />
+    {/* <Average /> */}
+    <BrowserRouter>
+      <RouteApp />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
