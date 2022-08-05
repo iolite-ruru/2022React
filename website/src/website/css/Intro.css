@@ -4,6 +4,7 @@
 }
 .concept-div {
     /* text-align: center; */
+    width: 100%;
     display: flex;
     align-items: center;
     /* margin-left: 130px; */

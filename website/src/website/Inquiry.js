@@ -1,5 +1,5 @@
 import React from 'react';
-import './Inquiry.css'
+import './css/Inquiry.css'
 
 const Inquiry = (props) => {
     const  { data }  = props;

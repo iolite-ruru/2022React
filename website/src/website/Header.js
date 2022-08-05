@@ -1,11 +1,11 @@
 import React from 'react';
-import './Header.css'
+import './css/Header_Footer.css'
 import ServiceList from './ServiceList';
 
 const Header = (props) => {
     const service = props.data;
     return (
-        <div className='div-outer'>
+        <div className='header-div'>
             
             <img className='logo' alt='logo' src='https://img.79plus.co.kr/megahp/common/img/logo.png'/>
             <ServiceList data={service} />

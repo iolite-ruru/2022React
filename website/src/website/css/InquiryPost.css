@@ -1,0 +1,30 @@
+.a-post-div {
+    width: 80%;
+    /* float: left; */
+    padding: 25px;
+    margin: auto;
+    padding-bottom: 100px;
+    background-color: white;
+    border: 0.5px solid rgba(0,0,0,0.08);
+    border-radius: 40px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 10%);
+    /* display: flex; */
+}
+
+.post-title-txt {
+    display: flex;
+}
+
+.post-body-div {
+    font-size: medium;
+}
+
+.post-date-txt, .post-writer-txt {
+    color: grey;
+}
+
+.btn-wrap {
+    float: right;
+    margin-top: 20px;
+    margin-right: 8%;
+}

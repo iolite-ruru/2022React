@@ -1,6 +1,39 @@
-.div-outer {
-    margin: 10px;
+.footer-div {
+    /* height: auto; */
+    background-color: rgb(61, 61, 61);
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    bottom: 0;
+    /* position: absolute; */
+
     display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.footer-txt {
+    color: white;
+}
+
+.header-div {
+    margin-bottom: 75px;
+    display: flex;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+    height: 75px;
+    padding: 1rem;
+    background-color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .logo {

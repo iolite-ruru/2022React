@@ -76,7 +76,7 @@
         "kcal": 278.6,
         "about": "상큼한 라임과 달콤한 향기의 애플민트가 어우러져 상쾌함을 한잔에 가득 채운 모히또 음료.",
         "price": 3500,
-        "type": "에이드&주스",
+        "type": "smoothie",
         "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175423_1656579263944_ycn4t3hwxa.jpg"
     },
     {
@@ -84,7 +84,7 @@
         "kcal": 196.8,
         "about": "시트러스향 가득한 레몬의 상큼함과 톡쏘는 탄산의 상쾌함이 만난 청량 에이드.",
         "price": 3500,
-        "type": "에이드&주스",
+        "type": "smoothie",
         "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175526_1656579326607_5YlsYvYbOp.jpg"
     },
     {
@@ -92,7 +92,7 @@
         "kcal": 296.4,
         "about": "쌉싸름한 자몽에 애플민트와 라임의 상큼함을 더해 더욱 시원하게 즐길 수 있는 모히또 음료.",
         "price": 3500,
-        "type": "에이드&주스",
+        "type": "smoothie",
         "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175933_1656579573840_xVhtjxAqxG.jpg"
     },
     {
@@ -100,7 +100,7 @@
         "kcal": 275.5,
         "about": "섞으면 마법처럼 색이 변하는 재미에 라임의 청량함으로 입까지 즐거운 이색 에이드.",
         "price": 3500,
-        "type": "에이드&주스",
+        "type": "smoothie",
         "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182155_1656580915892_BEA6u2b3Ym.jpg"
     },
     {

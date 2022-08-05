@@ -1,6 +1,6 @@
 import React from 'react';
 import { Outlet,Link } from 'react-router-dom';
-import './ServiceList.css'
+import './css/ServiceList.css'
 
 const ServiceList = (props) => {
     const { data } = props;

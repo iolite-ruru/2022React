@@ -1,5 +1,5 @@
 import React from 'react';
-import './Menu.css'
+import './css/Menu.css'
 
 const Menu = (props) => {
     const  {name, kcal, about, price, img}  = props.data;

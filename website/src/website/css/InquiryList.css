@@ -1,0 +1,68 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    /* margin: 5px; */
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    font-weight: bold;
+}
+
+.id-td, .writer-td, .date-td {
+    text-align: center;
+}
+
+.title-td {
+    width: 60%;
+}
+
+table, td, th {
+    border-collapse: collapse;
+    border-bottom: 0.8px solid #E3E7EB;
+    padding: 10px;
+}
+
+th {
+    border-top: 2px solid #E3E7EB;
+    border-bottom: 2px solid #E3E7EB;
+    padding: 15px;
+}
+
+.inquiry-btn {
+    color: black;
+    background-color: rgba(255, 206, 83, 0.989);
+    border-color: transparent;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: bold;
+    /* display: flex; */
+    /* float: right; */
+    padding: 10px;
+    margin: 20px;
+}
+
+.inquiry-btn:hover {
+    color: black;
+    background-color: rgb(216, 174, 67);
+}
+
+/* .title-td {
+    color: black;
+    text-decoration: none;
+} */
+
+.title-td:hover {
+    color: black;
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+.btn-wrap {
+    float: right;
+    margin-right: 8%;
+}

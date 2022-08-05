@@ -1,8 +1,10 @@
 import React from 'react';
-import './Intro.css'
+import './css/Intro.css'
+import './css/CommonStyle.css'
 
 const Intro = () => {
     return (
+        <div className='outer-div'>
         <div className='outer-c-div'>
             <div className='concept-div'>
                 <div className='concept-txt'>
@@ -29,6 +31,7 @@ const Intro = () => {
                 <p>BIG SIZE 2 SHOT</p>
                 <p>빅사이즈와 착한가격의 데일리 커피</p>
             </div> */}
+            </div>
         </div>
     );
 }

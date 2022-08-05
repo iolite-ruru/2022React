@@ -1,0 +1,45 @@
+select {
+    font-size: medium;
+    margin: 5px;
+}
+
+input, textarea {
+    width: 50%;
+    margin: 5px;
+    padding: 8px;
+}
+
+input {
+    font-size: large;
+}
+
+textarea {
+    height: 500px;
+    /* border: none; */
+    resize: none;
+    font-size: medium;
+}
+
+.write-div {
+    margin-left: auto;
+    float: auto;
+}
+
+.write-btn {
+    color: black;
+    background-color: rgba(255, 206, 83, 0.989);
+    border-color: transparent;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: bold;
+    display: flex;
+    /* float: right; */
+    margin-left: auto;
+    padding: 10px;
+    margin: 20px;
+}
+
+.write-btn:hover {
+    color: black;
+    background-color: rgb(216, 174, 67);
+}

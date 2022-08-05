@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Menu from './Menu';
-import './MenuList.css'
-
+import './css/MenuList.css'
+import './css/CommonStyle.css'
 
 import TypeList from './TypeList';
 import typeData from './data/typeData.json'
@@ -13,17 +13,15 @@ const MenuList = (props) => {
 
     return (
         <div className='outer-div'>
-            <TypeList data={typeData}/>
-            <div className="list-div">
+            <TypeList className='type-list-div' data={typeData}/>
+            <div className="menu-list-div">
             {
                 data.map( item =>
                     <Menu data={item}/>
                 )
             }
+            </div>
         </div>
-        </div>
-        
-
     );
 }
 

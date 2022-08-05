@@ -1,23 +1,28 @@
-import React from 'react';
-import './TypeList.css'
+import React, { useState } from 'react';
+import './css/TypeList.css'
 import Type from './Type';
 
 const TypeList = (props) => {
 
-    const typeData = props.data;
+    const { data } = props;
+    const [ typeState, setTypeState ] = useState("coffee");
+
+    const onClickType = (e) => {
+        setTypeState(e.target.name);
+        console.log(e.target.name);
+    }
 
     return (
         <div className='typeList-div'>
-            {/* <h1>TEST MSG</h1> */}
             {
-                typeData.map( item =>
+                data.map( item =>
                     // <Type data={item}/>
-                    <div className='type-div'>
-                        {/* <img src={img}
-                            className='type-img'/> */}
-
-                            <button className='type-btn'><p className='type-txt'>◾ {item.name}</p></button>
-                        
+                    <div className='type-div' >
+                        {console.log(":"+item.type)}
+                        <button className='type-btn' name={item.type}
+                            onClick={onClickType}>
+                            <p className='type-txt'>◾ {item.name}</p>
+                        </button>
                     </div>
                 )
             }
