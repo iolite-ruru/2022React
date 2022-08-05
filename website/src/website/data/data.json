@@ -11,7 +11,7 @@
         "name": "카페라떼",
         "kcal": 160.7,
         "about": "진한 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
-        "price": 10,
+        "price": 2500,
         "type": "coffee",
         "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165440_1656575680273_1mqBtip7qh.jpg"
     },
@@ -19,7 +19,7 @@
         "name": "바닐라라떼",
         "kcal": 244.2,
         "about": "바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
-        "price": 10,
+        "price": 3000,
         "type": "coffee",
         "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165146_1656575506210_0DJPVTvDIa.jpg"
     },
@@ -35,7 +35,7 @@
         "name": "콜드브루오리지널",
         "kcal": 7.2,
         "about": "차가운 물에 장시간 우려내 깔끔한 목넘김을 느낄 수 있는 콜드브루.",
-        "price": 10,
+        "price": 2000,
         "type": "coffee",
         "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165819_1656575899792_ItfqiNDhPh.jpg"
     },
@@ -43,7 +43,7 @@
         "name": "녹차",
         "kcal": 1.0,
         "about": "고소한 감칠맛과 부드러운 목넘김으로 산뜻하게 마음을 위로하는 국내산 녹차.",
-        "price": 3000,
+        "price": 2500,
         "type": "tea",
         "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113057_1656642657113_ORWSdJHBUa.jpg"
     },
@@ -70,6 +70,38 @@
         "price": 3000,
         "type": "tea",
         "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114038_1656643238601_tmNjGB3jsD.jpg"
+    },
+    {
+        "name": "라임모히또",
+        "kcal": 278.6,
+        "about": "상큼한 라임과 달콤한 향기의 애플민트가 어우러져 상쾌함을 한잔에 가득 채운 모히또 음료.",
+        "price": 3500,
+        "type": "에이드&주스",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175423_1656579263944_ycn4t3hwxa.jpg"
+    },
+    {
+        "name": "레몬에이드",
+        "kcal": 196.8,
+        "about": "시트러스향 가득한 레몬의 상큼함과 톡쏘는 탄산의 상쾌함이 만난 청량 에이드.",
+        "price": 3500,
+        "type": "에이드&주스",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175526_1656579326607_5YlsYvYbOp.jpg"
+    },
+    {
+        "name": "자몽모히또",
+        "kcal": 296.4,
+        "about": "쌉싸름한 자몽에 애플민트와 라임의 상큼함을 더해 더욱 시원하게 즐길 수 있는 모히또 음료.",
+        "price": 3500,
+        "type": "에이드&주스",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175933_1656579573840_xVhtjxAqxG.jpg"
+    },
+    {
+        "name": "유니콘매직에이드(블루)",
+        "kcal": 275.5,
+        "about": "섞으면 마법처럼 색이 변하는 재미에 라임의 청량함으로 입까지 즐거운 이색 에이드.",
+        "price": 3500,
+        "type": "에이드&주스",
+        "img": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182155_1656580915892_BEA6u2b3Ym.jpg"
     },
     {
         "name": "",

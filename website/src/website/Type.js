@@ -9,7 +9,7 @@ const Type = (props) => {
         <div className='type-div'>
             {/* <img src={img}
                 className='type-img'/> */}
-            <h4>{name}</h4>
+            <p>{name}</p>
         </div>
     );
 }

@@ -18,7 +18,7 @@ const InquiryList = (props) => {
     
 
     return (
-        <div>
+        <div className='outer-div'>
             <h1>자주하는 질문</h1>
             <div className="list-div">
                 <table>
